@@ -1,6 +1,8 @@
-# Tadros-Data-Science-and-ML
+# Albert Tadros' Data Science and ML Projects
 
-# [Project 3: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
+## Click on each project's title for the project github code.
+
+# [Project 1: The impact of COVID19 on the NYC Public High School Enrollment](https://github.com/albert-tadros/NYC-High-School-Studnet-enrollment)
 ***This python data analysis project aims to investigate any change in the enrollment number of high school students in NYC public school during COVID19 pandemic. The data used for the analysis was secondary data sourced from [the New York State Education Department Data website](https://data.nysed.gov/). The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
 **Problem Statement**
@@ -17,7 +19,7 @@ Overall, college enrollments in the U.S. declined by 4% during the year 2020 due
 
 ![](./images/total%20enrollment%20trend.png)
 
-# [Project 4: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
+# [Project 2: Maven Toyes Profit Margin](https://github.com/albert-tadros/Maven-Toyes-Profit-Margin-Project)
 
 ***This python data analysis project aims to improve the profit margin of the company Maven Toys using the company's products, sales, stores, and inventory data. The analysis was implemented using Python on Jupyter notebooks. The following python's data analysis libraries: Numpy, Pandas, Matplotlib, and Seaborn, were mainly used in the project.***
 
